@@ -19,7 +19,7 @@
 
 <!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
 
-<h2>👨‍💻 Projects:</h2>
+<!-- <h2>👨‍💻 Projects:</h2>
 
 - <b>Python Programming Language</b>
   <!-- - [Dataset Training and Decision Tree Model](https://github.com/ninismr/Dataset-Training-and-Decision-Tree-Model-using-Python-Programming-Language)
@@ -82,7 +82,7 @@
 - <b>Others</b>
   <!-- - [‘Coffine’ Business Idea and Process](https://github.com/ninismr/Coffine-Business-Idea-and-Process)
   - [‘MyServices’ Business Idea and Process](https://github.com/ninismr/MyServices-Business-Idea-and-Process)
-  - [Client Cake Shop Development](https://github.com/ninismr/Client-Cake-Shop-Development) -->
+  - [Client Cake Shop Development](https://github.com/ninismr/Client-Cake-Shop-Development) --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
