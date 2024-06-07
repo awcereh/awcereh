@@ -32,54 +32,54 @@
   - [Indonesian Payroll Tax Calculation](https://github.com/ninismr/Indonesian-Payroll-Tax-Calculation-using-Python-Programming-Language)
   - [AI Constraint Satisfaction Problems: Map Coloring using Backtracking-Search](https://github.com/ninismr/AI-CSP-Map-Coloring-with-Backtracking-Search-using-Python-Programming-Language) -->
   <!-- - [Implementation of Genetic Algorithm in the Shortest Route Case](https://github.com/ninismr/Implementation-of-Genetic-Algorithm-in-the-Shortest-Route-Case-using-Python-Programming-Language) -->
-- <b>PHP Programming Language</b>
+<!-- - <b>PHP Programming Language</b> -->
   <!-- - [Web-based Restaurant Management Application System](https://github.com/ninismr/Web-Based-Restaurant-Management-Application-System)
   - [User Login and Register Form](https://github.com/ninismr/User-Login-and-Register-Form-using-PHP-Programming-Language)
   - [Simple CRUD Table](https://github.com/ninismr/Simple-CRUD-Table-using-PHP-Programming-Language)
   - [Simple Calculator](https://github.com/ninismr/Simple-Calculator-using-PHP-Programming-Language) -->
-- <b>Java Programming Language</b>
+<!-- - <b>Java Programming Language</b> -->
   <!-- - [Geometry Shapes Program](https://github.com/ninismr/Geometry-Shapes-Program-using-Java-Programming-Language)
   - [Triangular Shapes Program](https://github.com/ninismr/Triangular-Shapes-Program-using-Java-Programming-Language)
   - [Indonesian Payroll Tax Calculation](https://github.com/ninismr/Indonesian-Payroll-Tax-Calculation-using-Java-Programming-Language) -->
-- <b>C Programming Language</b>
+<!-- - <b>C Programming Language</b> -->
   <!-- - [Solving the Shortest Path Problem for a Directed Graph with Dijkstra's Algorithm](https://github.com/ninismr/Solving-the-Shortest-Path-Problem-with-Dijkstra-Algorithm-using-the-C-Programming-Language) -->
-- <b>C++ Programming Language</b>
+<!-- - <b>C++ Programming Language</b> -->
   <!-- - [Infix to Postfix Converter Program](https://github.com/ninismr/Infix-to-Postfix-Converter-Program-using-C-Programming-Language)
   - [Student Record System Program](https://github.com/ninismr/Student-Record-System-Program-using-C-Programming-Language) -->
-- <b>C# Programming Language</b>
+<!-- - <b>C# Programming Language</b> -->
   <!-- - [Simple Snake Game Program](https://github.com/ninismr/Simple-Snake-Game-Program-using-CS-Programming-Language)
   - [Count-Up/Stopwatch Application](https://github.com/ninismr/Count-Up-Stopwatch-Application-using-CS-Programming-Language)
   - [Count-Down/Timer Application](https://github.com/ninismr/Count-Down-Timer-Application-using-CS-Programming-Language) -->
-- <b>HTML and CSS Programming Languages</b>
+<!-- - <b>HTML and CSS Programming Languages</b> -->
   <!-- - [‘Harry Potter: Hogwarts’ Theme Website](https://github.com/ninismr/Harry-Potter-Hogwarts-Theme-Website-using-PHP-HTML-and-CSS-Programming-Languages)
   - [Web-based Curriculum Vitae (Not the Recent CV)](https://github.com/ninismr/Web-Based-Curriculum-Vitae-using-HTML-and-CSS-Programming-Languages) -->
-- <b>JavaScript Programming Language</b>
+<!-- - <b>JavaScript Programming Language</b> -->
   <!-- - [Web-based Quiz Application](https://github.com/ninismr/Web-Based-Quiz-Application-using-JavaScript-CSS-and-HTML-Programming-Languages) -->
-- <b>MariaDB/MySQL</b>
+<!-- - <b>MariaDB/MySQL</b> -->
   <!-- - [Creating Politics Database](https://github.com/ninismr/Creating-Politics-Database-using-MariaDB) -->
-- <b>Arduino IDE</b>
+<!-- - <b>Arduino IDE</b> -->
   <!-- - [Robotic Arm](https://github.com/ninismr/Robotic-Arm)
   - [Gas Leakage Monitoring System](https://github.com/ninismr/Gas-Leakage-Monitoring-System) -->
-- <b>Android Studio</b>
+<!-- - <b>Android Studio</b> -->
   <!-- - [Smart Android Application](https://github.com/ninismr/Smart-Android-Application-using-Android-Studio)
   - [Quiz Android Application](https://github.com/ninismr/Quiz-Android-Application-using-Android-Studio) -->
-- <b>Blender 3D</b>
+<!-- - <b>Blender 3D</b> -->
   <!-- - [3D Classroom Scene](https://github.com/ninismr/3D-Classroom-Scene-using-Blender-3D)
   - [3D Modern City View](https://github.com/ninismr/3D-Modern-City-View-using-Blender-3D)
   - [AI Face 3D Animation (Nodes)](https://github.com/ninismr/AI-Face-3D-Animation-Nodes-using-Blender-3D)
   - [Simple 3D Animation](https://github.com/ninismr/Simple-3D-Animation-using-Blender-3D)
   - [Spaceship 3D Animation](https://github.com/ninismr/Spaceship-3D-Animation-using-Blender-3D) -->
-- <b>Microsoft Power BI</b>
+<!-- - <b>Microsoft Power BI</b> -->
   <!-- - [Data Visualization](https://github.com/ninismr/Data-Visualization-using-Power-BI) -->
-- <b>Microsoft Excel</b>
+<!-- - <b>Microsoft Excel</b> -->
   <!-- - [Statistical Final Exam Study Cases](https://github.com/ninismr/Statistical-Final-Exam-Study-Cases-using-Microsoft-Excel) -->
-- <b>Figma</b>
+<!-- - <b>Figma</b> -->
   <!-- - [Social Media Content Creating for Non-profit Organization](https://github.com/ninismr/Social-Media-Content-Creating-for-Non-profit-Organization) -->
-- <b>Draw.io</b>
+<!-- - <b>Draw.io</b> -->
   <!-- - [Entity Relationship Diagram from an Employee Salary Slip](https://github.com/ninismr/Entity-Relationship-Diagram-from-an-Employee-Salary-Slip) -->
-- <b>Cisco Packet Tracer</b>
+<!-- - <b>Cisco Packet Tracer</b> -->
   <!-- - [Computer Network Design](https://github.com/ninismr/Computer-Network-Design-using-Cisco-Packet-Tracer) -->
-- <b>Others</b>
+<!-- - <b>Others</b> -->
   <!-- - [‘Coffine’ Business Idea and Process](https://github.com/ninismr/Coffine-Business-Idea-and-Process)
   - [‘MyServices’ Business Idea and Process](https://github.com/ninismr/MyServices-Business-Idea-and-Process)
   - [Client Cake Shop Development](https://github.com/ninismr/Client-Cake-Shop-Development) --> -->
